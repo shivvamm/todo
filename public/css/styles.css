@@ -12,7 +12,7 @@ h1{
 }
 .box{
     max-width: 370px;
-    margin-left: 590px ;
+    margin-left: 37%;
     margin-top:-20px;
     border-radius: 3px;
    background-color: white;
@@ -20,7 +20,7 @@ h1{
 }
 .box1{
     max-width: 370px;
-    margin-left: 590px ;
+    margin-left: 37%;
     margin-top:130px;
     border-radius: 5px;
    background-color: white;
@@ -33,7 +33,7 @@ h1{
 #heading{
     background-color:white;
     text-align: center;
-    margin-left: 590px;
+    margin-left: 37%;
 margin-top: 100px;
    font-size: 18px;
 }
