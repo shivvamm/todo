@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "\"# todo\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivvamm/todo.git"
+  },
+  "author": "Shivam Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivvamm/todo/issues"
+  },
+  "homepage": "https://github.com/shivvamm/todo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
